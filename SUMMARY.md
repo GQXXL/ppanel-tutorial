@@ -4,13 +4,13 @@ en-US:
   - title: Windows
     path: en-US/windows/README.md
     subItems:
-      - title: v2rayN for Windows
-        path: en-US/windows/v2rayn.md
-        icon: zh-CN/windows/v2rayN.png
-        updated_at: 2025-07-10
       - title: Clash Verge
         path: en-US/windows/clash-verge.md
         icon: zh-CN/windows/clash.png
+        updated_at: 2025-07-10
+      - title: v2rayN for Windows
+        path: en-US/windows/v2rayn.md
+        icon: zh-CN/windows/v2rayN.png
         updated_at: 2025-07-10
       - title: Clash for Windows
         path: en-US/windows/clash-for-windows.md
@@ -84,13 +84,13 @@ zh-CN:
   - title: Windows
     path: zh-CN/windows/README.md
     subItems:
-      - title: v2rayN for Windows
-        path: zh-CN/windows/v2rayn.md
-        icon: zh-CN/windows/v2rayN.png
-        updated_at: 2025-07-10
       - title: Clash Verge
         path: zh-CN/windows/clash-verge.md
         icon: zh-CN/windows/clash.png
+        updated_at: 2025-07-10
+      - title: v2rayN for Windows
+        path: zh-CN/windows/v2rayn.md
+        icon: zh-CN/windows/v2rayN.png
         updated_at: 2025-07-10
       - title: Clash for Windows
         path: zh-CN/windows/clash-for-windows.md
@@ -190,8 +190,8 @@ zh-CN:
 ## zh-CN
 
 * [Windows](zh-CN/windows/README.md)
-  * [v2rayN for Windows](zh-CN/windows/v2rayn.md)
   * [Clash Verge](zh-CN/windows/clash-verge.md)
+  * [v2rayN for Windows](zh-CN/windows/v2rayn.md)
   * [Clash for Windows](zh-CN/windows/clash-for-windows.md)
   * [Netch（游戏/特殊）](zh-CN/windows/netch.md)
 * [macOS](zh-CN/macos/README.md)
