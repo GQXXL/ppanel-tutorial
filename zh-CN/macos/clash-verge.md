@@ -1,3 +1,9 @@
+## 📥 下载链接
+
+- **Clash Verge M芯片**：[点击下载](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_aarch64.dmg)
+- **Clash Verge Intel芯片**：[点击下载](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64.dmg)
+- **官方最新安装包**：[前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/)
+
 ## ⚠️ macOS 安全设置
 
 ### 🛡️ 安全性问题解决
@@ -211,3 +217,22 @@ A: 日志查看：
 - 文件位置：`~/Library/Logs/Clash Verge/`
 
 ---
+
+## 💡 最佳实践
+
+### ⚡ 性能优化
+
+1. **合理配置规则**：避免所有流量都经过代理
+2. **选择就近节点**：选择地理位置较近的服务器
+3. **定期清理日志**：防止日志文件占用过多空间
+4. **关闭不必要功能**：只启用需要的功能模块
+
+### 🛡️ 安全建议
+
+1. **定期更新**：保持应用和配置的最新版本
+2. **配置备份**：定期备份重要的配置文件
+3. **源码审计**：开源软件可以审查源代码
+4. **权限控制**：只授予应用必要的系统权限
+
+---
+
