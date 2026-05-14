@@ -1,32 +1,3 @@
-# 🌊 Surge for macOS Professional Configuration Guide
-
-> 🚀 **Professional macOS Network Tool** | Powerful features, excellent performance, suitable for professional users
-
-[Surge for macOS](https://nssurge.com/buy_now) is a powerful macOS network tool that provides rich network functionality and professional proxy solutions.
-
-## 📊 Supported Protocols Overview
-
-| Protocol Type | Performance | Security | Recommendation |
-|---------------|-------------|----------|----------------|
-| 🔗 Shadowsocks (SS) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| 🚀 V2Ray (VMess) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| 🛡️ Trojan | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| 🌐 HTTP/HTTPS | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| 🔌 SOCKS5 | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
-| ⚡ Snell | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| 🔐 SOCKS5 over TLS | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-
-## 📋 Usage Requirements
-
-### 🖥️ System Requirements
-
-| Item | Requirement | Description |
-|------|-------------|-------------|
-| **Operating System** | macOS 10.15+ | Latest version recommended |
-| **Software Version** | Surge 5.0+ | Supports latest protocols and features |
-| **Compatible Devices** | MacBook / iMac / Mac Pro | All Mac device series |
-| **Network Environment** | Stable network connection | Ensures configuration file download |
-
 ### ⚠️ Important Notes
 
 > 💡 **Software Information**
@@ -121,25 +92,3 @@ A: Solutions:
 **Q: How to update configuration?**
 
 A: Click the "Update" button in the configuration management interface, or set automatic update intervals.
-
-## 🎉 Feature Comparison
-
-| Feature | Surge | Other Clients | Advantages |
-|---------|--------|--------------|------------|
-| **Protocol Support** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Supports latest protocols |
-| **Traffic Splitting Rules** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | Professional rule engine |
-| **Network Debugging** | ⭐⭐⭐⭐⭐ | ⭐⭐ | Powerful packet capture functionality |
-| **Performance** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Excellent performance optimization |
-| **Interface Design** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | Native macOS design |
-| **Price Barrier** | ⭐⭐ | ⭐⭐⭐⭐ | Relatively expensive |
-
-## 📞 Getting Help
-
-- 🌐 **Official Website**: [nssurge.com](https://nssurge.com)
-- 📚 **Official Documentation**: Detailed feature descriptions and configuration guides
-- 💬 **Community Support**: Active user community and technical exchanges
-- 📧 **Technical Support**: Professional technical support team
-
----
-
-> 📅 Last Updated: July 10, 2025 | 🌊 Applicable Version: Surge 5.9.0
