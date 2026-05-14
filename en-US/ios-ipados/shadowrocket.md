@@ -1,18 +1,17 @@
 ### 🔑 Apple ID Acquisition
 
-#### Method 1: Self Registration
+After purchasing the subscription, follow these steps:
 
-1. Visit [appleid.apple.com](https://appleid.apple.com)
-2. Select non-China mainland region
-3. Complete email verification and information filling
+1. Log in to this site on your iOS device.
+2. Open **Dashboard**.
+3. Tap **ViewID**.
+4. Open App Store, tap avatar at top-right, and sign out your own Apple ID first.
+5. Copy the provided ID and password and sign in.
+6. For security prompts, choose **Other** and do not enable extra verification.
+7. Search **Shadowrocket** and install it.
+8. After installation, return to Dashboard and tap **One-click Import**.
 
-#### Method 2: Purchase Ready Account
-
-- Choose reputable merchants
-- Pay attention to account security and after-sales service
-- Recommend changing password after purchase
-
----
+> ⚠️ **Notice**: This Apple ID is not yours. Do NOT sign into iCloud in system settings.
 
 ## 🚀 Configuration Tutorial
 

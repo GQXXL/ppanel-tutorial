@@ -1,51 +1,146 @@
-# Clash Verge
-
-[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) is a cross-platform GUI client for Clash kernel, supporting Windows, Linux, and macOS systems, with powerful traffic routing capabilities.
-
-## Requirements
-
-> ⚠️ System Requirements
-
-- Operating System: macOS 10.5 or higher
-- Software Version: Clash Verge for macOS
-- Compatible Devices: MacBook / iMac / Mac Pro
-
+# Clash Verge for macOS
 
 ## 📥 Download Links
 
-- **Clash Verge Apple Silicon (M series)**: [Download](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_aarch64.dmg)
-- **Clash Verge Intel**: [Download](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64.dmg)
-- **Official latest releases**: [Go to download](https://github.com/clash-verge-rev/clash-verge-rev/releases/)
+- **Clash Verge Apple Silicon (M series)**: [Click to download](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_aarch64.dmg)
+- **Clash Verge Intel**: [Click to download](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64.dmg)
+- **Official latest installer**: [Go to download](https://github.com/clash-verge-rev/clash-verge-rev/releases/)
 
+## ⚠️ macOS Security Settings
 
+### 🛡️ Fix common security warnings
 
+You may see warnings on first launch:
 
+- "Developer cannot be verified"
+- "App is damaged"
+- "From an unidentified developer"
 
+#### 🔧 Steps
 
+1. Install from DMG and try opening the app first.
+2. Go to **System Settings → Privacy & Security**.
+3. In **General**, click **Open Anyway**.
+4. Confirm opening the app.
 
-### Important Notice
+If needed, use Terminal:
 
-📢 macOS Security Alert Solution
-Starting from macOS 10.15, due to enhanced system security, you may receive "Developer Cannot Be Verified" or "App Is Damaged" alerts on first launch. Please follow these steps:
+```bash
+sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app
+```
 
-![图一](Clash-Verge-01.png)
-![图二](Clash-Verge-02.png)
-![图三](Clash-Verge-03.png)
+> ⚠️ Security tip: only run commands you understand.
+
 ---
 
-## Configuration Guide
+## 🚀 Configuration Tutorial
 
-### 1. Import Configuration
+### 📋 Before you start
 
-![图四](Clash-Verge-04.png)
-![图五](Clash-Verge-05.png)
-![图六](Clash-Verge-06.png)
-![图七](Clash-Verge-07.png)
+- ✅ Clash Verge installed successfully
+- ✅ Valid subscription URL or config file
+- ✅ macOS security warning resolved
+- ✅ Network is working
+
+### 🛠️ Configuration steps
+
+1. Open Clash Verge.
+2. Go to **Profiles / Configuration**.
+3. Click **New / +**, choose **Subscription**.
+4. Enter name + subscription URL and save.
+5. Update subscription regularly.
+
 ---
 
-### 2. Update Configuration
+## 🎛️ Advanced Features
 
-![图八](Clash-Verge-08.png)
+### 📊 Traffic monitoring
+
+- Real-time upload/download speed
+- Connection details
+- Traffic by app
+
+### 🎯 Policy setup
+
+- Auto-select best node by latency
+- Manual node selection
+- Failover and load balancing
+
+### 🎨 UI customization
+
+- Light/Dark theme
+- Language options
+- Layout preferences
+
 ---
 
-> 📅 Last Updated: July 10, 2025 | ⚔️ Applicable Version: Clash Verge 1.7.7
+## ⚙️ System Integration
+
+### 🌐 System proxy
+
+- HTTP proxy
+- SOCKS5 proxy
+- PAC mode
+- TUN mode (extra setup may be required)
+
+### 🔧 Auto start
+
+- Launch at startup
+- Minimize to tray/menu bar
+- Tray status icon
+- Global shortcuts
+
+---
+
+## ❓ FAQ
+
+### 🔧 Installation issues
+
+**Q: App cannot be opened and says damaged?**
+
+A:
+- Use **Privacy & Security → Open Anyway**
+- Or run:
+  `sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app`
+
+**Q: Which version should I download?**
+
+A:
+- Apple Silicon (M1/M2/M3): aarch64
+- Intel Macs: x64
+
+### 🌐 Connection issues
+
+**Q: Imported config but cannot connect?**
+
+A:
+- Check subscription URL validity
+- Check network connection
+- Try switching nodes
+- Check app logs
+
+**Q: Connected but no internet?**
+
+A:
+- Verify system proxy settings
+- Check firewall restrictions
+- Try another mode
+- Restart network service
+
+---
+
+## 💡 Best Practices
+
+### ⚡ Performance
+
+1. Use nearby nodes
+2. Keep rules simple and clean
+3. Update subscriptions daily
+4. Disable unused features
+
+### 🛡️ Security
+
+1. Keep app updated
+2. Backup configs regularly
+3. Grant only necessary permissions
+4. Use trusted subscription sources
