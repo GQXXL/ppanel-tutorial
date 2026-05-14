@@ -1,27 +1,3 @@
-## 📥 下载安装
-
-## 📥 下载链接
-
-- **Clash Verge M芯片**：[点击下载](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_aarch64.dmg)
-- **Clash Verge Intel芯片**：[点击下载](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64.dmg)
-- **官方最新安装包**：[前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/)
-
-
-### 🔗 官方发布
-| 处理器类型 | 下载链接 | 适用设备 |
-|-----------|----------|----------|
-| 🔥 Apple Silicon | [aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) | M1/M2 Mac |
-| 💻 Intel x64 | [x64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) | Intel Mac |
-
-#### 🚀 加速下载
-
-| 下载源 | Apple Silicon | Intel x64 |
-|--------|---------------|-----------|
-| 🚀 镜像1 | [aarch64](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) | [x64](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) |
-| 🚀 镜像2 | [aarch64](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) | [x64](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) |
-
----
-
 ## ⚠️ macOS 安全设置
 
 ### 🛡️ 安全性问题解决
