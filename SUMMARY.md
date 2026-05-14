@@ -12,10 +12,6 @@ en-US:
         path: en-US/windows/v2rayn.md
         icon: zh-CN/windows/v2rayN.png
         updated_at: 2025-07-10
-      - title: Clash for Windows
-        path: en-US/windows/clash-for-windows.md
-        icon: zh-CN/windows/clash.png
-        updated_at: 2025-07-10
       - title: Netch (Game/Special)
         path: en-US/windows/netch.md
         icon: zh-CN/windows/netch.png
@@ -30,10 +26,6 @@ en-US:
       - title: Surge Pro
         path: en-US/macos/surge-pro.md
         icon: zh-CN/macos/surge.png
-        updated_at: 2025-07-10
-      - title: ClashX Pro
-        path: en-US/macos/clashx-pro.md
-        icon: zh-CN/macos/clash.png
         updated_at: 2025-07-10
   - title: Android
     path: zh-CN/android/README.md
@@ -89,10 +81,6 @@ zh-CN:
         path: zh-CN/windows/v2rayn.md
         icon: zh-CN/windows/v2rayN.png
         updated_at: 2025-07-10
-      - title: Clash for Windows
-        path: zh-CN/windows/clash-for-windows.md
-        icon: zh-CN/windows/clash.png
-        updated_at: 2025-07-10
       - title: Netch (游戏/特殊)
         path: zh-CN/windows/netch.md
         icon: zh-CN/windows/netch.png
@@ -107,10 +95,6 @@ zh-CN:
       - title: Surge Pro
         path: zh-CN/macos/surge-pro.md
         icon: zh-CN/macos/surge.png
-        updated_at: 2025-07-10
-      - title: ClashX Pro
-        path: zh-CN/macos/clashx-pro.md
-        icon: zh-CN/windows/clash.png
         updated_at: 2025-07-10
   - title: Android
     path: zh-CN/android/README.md
@@ -161,12 +145,10 @@ zh-CN:
 
 * [Windows](en-US/windows/README.md)
   * [Clash Verge](en-US/windows/clash-verge.md)
-  * [Clash for Windows](en-US/windows/clash-for-windows.md)
   * [Netch (Game/Special)](en-US/windows/netch.md)
 * [macOS](en-US/macos/README.md)
   * [Clash Verge](en-US/macos/clash-verge.md)
   * [Surge Pro](en-US/macos/surge-pro.md)
-  * [ClashX Pro](en-US/macos/clashx-pro.md)
 * [Android](en-US/android/README.md)
   * [Clash Meta for Android](en-US/android/clash-meta-for-android.md)
   * [v2rayNG](en-US/android/v2rayng.md)
@@ -185,12 +167,10 @@ zh-CN:
 * [Windows](zh-CN/windows/README.md)
   * [Clash Verge](zh-CN/windows/clash-verge.md)
   * [v2rayN for Windows](zh-CN/windows/v2rayn.md)
-  * [Clash for Windows](zh-CN/windows/clash-for-windows.md)
   * [Netch（游戏/特殊）](zh-CN/windows/netch.md)
 * [macOS](zh-CN/macos/README.md)
   * [Clash Verge](zh-CN/macos/clash-verge.md)
   * [Surge Pro](zh-CN/macos/surge-pro.md)
-  * [ClashX Pro](zh-CN/macos/clashx-pro.md)
 * [Android](zh-CN/android/README.md)
   * [Clash Meta for Android](zh-CN/android/clash-meta-for-android.md)
   * [v2rayNG](en-US/android/v2rayng.md)
