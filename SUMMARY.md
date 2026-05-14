@@ -54,7 +54,7 @@ en-US:
         path: en-US/android/sing-box.md
         icon: zh-CN/android/sing-box.png
         updated_at: 2025-07-10
-  - title: iOS / iPadOS
+  - title: iOS / iPadOS / TV
     path: zh-CN/ios-ipados/README.md
     subItems:
       - title: Shadowrocket
@@ -134,7 +134,7 @@ zh-CN:
         path: zh-CN/android/sing-box.md
         icon: zh-CN/android/sing-box.png
         updated_at: 2025-07-10
-  - title: iOS / iPadOS
+  - title: iOS / iPadOS / TV
     path: zh-CN/ios-ipados/README.md
     subItems:
       - title: Shadowrocket
@@ -178,7 +178,7 @@ zh-CN:
   * [v2rayNG](en-US/android/v2rayng.md)
   * [Surfboard](en-US/android/surfboard.md)
   * [sing-box](en-US/android/sing-box.md)
-* [iOS / iPadOS](en-US/ios-ipados/README.md)
+* [iOS / iPadOS / TV](en-US/ios-ipados/README.md)
   * [Shadowrocket](en-US/ios-ipados/shadowrocket.md)
   * [Surge](en-US/ios-ipados/surge.md)
   * [QuantumultX](en-US/ios-ipados/quantumultx.md)
@@ -203,7 +203,7 @@ zh-CN:
   * [v2rayNG](en-US/android/v2rayng.md)
   * [Surfboard](zh-CN/android/surfboard.md)
   * [Sing-Box](zh-CN/android/sing-box.md)
-* [iOS / iPadOS](zh-CN/ios-ipados/README.md)
+* [iOS / iPadOS / TV](zh-CN/ios-ipados/README.md)
   * [Shadowrocket](zh-CN/ios-ipados/shadowrocket.md)
   * [Surge](zh-CN/ios-ipados/surge.md)
   * [QuantumultX](zh-CN/ios-ipados/quantumultx.md)
