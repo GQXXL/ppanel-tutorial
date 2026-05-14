@@ -23,13 +23,13 @@ en-US:
   - title: macOS
     path: en-US/macos/README.md
     subItems:
-      - title: Surge Pro
-        path: en-US/macos/surge-pro.md
-        icon: zh-CN/macos/surge.png
-        updated_at: 2025-07-10
       - title: Clash Verge
         path: en-US/macos/clash-verge.md
         icon: zh-CN/macos/clash.png
+        updated_at: 2025-07-10
+      - title: Surge Pro
+        path: en-US/macos/surge-pro.md
+        icon: zh-CN/macos/surge.png
         updated_at: 2025-07-10
       - title: ClashX Pro
         path: en-US/macos/clashx-pro.md
@@ -38,6 +38,10 @@ en-US:
   - title: Android
     path: zh-CN/android/README.md
     subItems:
+      - title: Clash Meta for Android
+        path: en-US/android/clash-meta-for-android.md
+        icon: zh-CN/android/clash.png
+        updated_at: 2025-07-10
       - title: v2rayNG
         path: en-US/android/v2rayng.md
         icon: zh-CN/android/v2rayng.png
@@ -46,10 +50,6 @@ en-US:
         path: en-US/android/surfboard.md
         icon: zh-CN/android/surfboard.png
         updated_at: 2025-07-10
-      - title: Clash Meta for Android
-        path: en-US/android/clash-meta-for-android.md
-        icon: zh-CN/android/clash.png
-        updated_at: 2025-07-10
       - title: Sing-Box
         path: en-US/android/sing-box.md
         icon: zh-CN/android/sing-box.png
@@ -57,13 +57,13 @@ en-US:
   - title: iOS / iPadOS
     path: zh-CN/ios-ipados/README.md
     subItems:
-      - title: Surge
-        path: en-US/ios-ipados/surge.md
-        icon: zh-CN/ios-ipados/surge.png
-        updated_at: 2025-07-10
       - title: Shadowrocket
         path: en-US/ios-ipados/shadowrocket.md
         icon: zh-CN/ios-ipados/shadowrocket.png
+        updated_at: 2025-07-10
+      - title: Surge
+        path: en-US/ios-ipados/surge.md
+        icon: zh-CN/ios-ipados/surge.png
         updated_at: 2025-07-10
       - title: QuantumultX
         path: en-US/ios-ipados/quantumultx.md
@@ -103,13 +103,13 @@ zh-CN:
   - title: macOS
     path: zh-CN/macos/README.md
     subItems:
-      - title: Surge Pro
-        path: zh-CN/macos/surge-pro.md
-        icon: zh-CN/macos/surge.png
-        updated_at: 2025-07-10
       - title: Clash Verge
         path: zh-CN/macos/clash-verge.md
         icon: zh-CN/windows/clash.png
+        updated_at: 2025-07-10
+      - title: Surge Pro
+        path: zh-CN/macos/surge-pro.md
+        icon: zh-CN/macos/surge.png
         updated_at: 2025-07-10
       - title: ClashX Pro
         path: zh-CN/macos/clashx-pro.md
@@ -118,6 +118,10 @@ zh-CN:
   - title: Android
     path: zh-CN/android/README.md
     subItems:
+      - title: Clash Meta for Android
+        path: zh-CN/android/clash-meta-for-android.md
+        icon: zh-CN/windows/clash.png
+        updated_at: 2025-07-10
       - title: v2rayNG
         path: en-US/android/v2rayng.md
         icon: zh-CN/android/v2rayng.png
@@ -126,10 +130,6 @@ zh-CN:
         path: zh-CN/android/surfboard.md
         icon: zh-CN/android/surfboard.png
         updated_at: 2025-07-10
-      - title: Clash Meta for Android
-        path: zh-CN/android/clash-meta-for-android.md
-        icon: zh-CN/windows/clash.png
-        updated_at: 2025-07-10
       - title: Sing-Box
         path: zh-CN/android/sing-box.md
         icon: zh-CN/android/sing-box.png
@@ -137,13 +137,13 @@ zh-CN:
   - title: iOS / iPadOS
     path: zh-CN/ios-ipados/README.md
     subItems:
-      - title: Surge
-        path: zh-CN/ios-ipados/surge.md
-        icon: zh-CN/macos/surge.png
-        updated_at: 2025-07-10
       - title: Shadowrocket
         path: zh-CN/ios-ipados/shadowrocket.md
         icon: zh-CN/ios-ipados/shadowrocket.png
+        updated_at: 2025-07-10
+      - title: Surge
+        path: zh-CN/ios-ipados/surge.md
+        icon: zh-CN/macos/surge.png
         updated_at: 2025-07-10
       - title: QuantumultX
         path: zh-CN/ios-ipados/quantumultx.md
@@ -170,17 +170,17 @@ zh-CN:
   * [Clash for Windows](en-US/windows/clash-for-windows.md)
   * [Netch (Game/Special)](en-US/windows/netch.md)
 * [macOS](en-US/macos/README.md)
-  * [Surge Pro](en-US/macos/surge-pro.md)
   * [Clash Verge](en-US/macos/clash-verge.md)
+  * [Surge Pro](en-US/macos/surge-pro.md)
   * [ClashX Pro](en-US/macos/clashx-pro.md)
 * [Android](en-US/android/README.md)
+  * [Clash Meta for Android](en-US/android/clash-meta-for-android.md)
   * [v2rayNG](en-US/android/v2rayng.md)
   * [Surfboard](en-US/android/surfboard.md)
-  * [Clash Meta for Android](en-US/android/clash-meta-for-android.md)
   * [sing-box](en-US/android/sing-box.md)
 * [iOS / iPadOS](en-US/ios-ipados/README.md)
-  * [Surge](en-US/ios-ipados/surge.md)
   * [Shadowrocket](en-US/ios-ipados/shadowrocket.md)
+  * [Surge](en-US/ios-ipados/surge.md)
   * [QuantumultX](en-US/ios-ipados/quantumultx.md)
   * [sing-box](en-US/ios-ipados/sing-box.md)
   * [Quantumult](en-US/ios-ipados/quantumult.md)
@@ -195,17 +195,17 @@ zh-CN:
   * [Clash for Windows](zh-CN/windows/clash-for-windows.md)
   * [Netch（游戏/特殊）](zh-CN/windows/netch.md)
 * [macOS](zh-CN/macos/README.md)
-  * [Surge Pro](zh-CN/macos/surge-pro.md)
   * [Clash Verge](zh-CN/macos/clash-verge.md)
+  * [Surge Pro](zh-CN/macos/surge-pro.md)
   * [ClashX Pro](zh-CN/macos/clashx-pro.md)
 * [Android](zh-CN/android/README.md)
+  * [Clash Meta for Android](zh-CN/android/clash-meta-for-android.md)
   * [v2rayNG](en-US/android/v2rayng.md)
   * [Surfboard](zh-CN/android/surfboard.md)
-  * [Clash Meta for Android](zh-CN/android/clash-meta-for-android.md)
   * [Sing-Box](zh-CN/android/sing-box.md)
 * [iOS / iPadOS](zh-CN/ios-ipados/README.md)
-  * [Surge](zh-CN/ios-ipados/surge.md)
   * [Shadowrocket](zh-CN/ios-ipados/shadowrocket.md)
+  * [Surge](zh-CN/ios-ipados/surge.md)
   * [QuantumultX](zh-CN/ios-ipados/quantumultx.md)
   * [Sing-Box](zh-CN/ios-ipados/sing-box.md)
   * [Quantumult](zh-CN/ios-ipados/quantumult.md)
