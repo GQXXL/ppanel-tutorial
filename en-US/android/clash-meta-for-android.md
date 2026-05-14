@@ -1,16 +1,18 @@
 ### 🛠️ Installation Steps
 
-1. **Download Application**
-   - Choose any download link above
-   - Download `cmfa-2.11.6-alpha-universal-release.apk`
+1. **Download the app**
+   - **Clash Meta for Android Phone**: [Click to download](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.17/cmfa-2.11.17-meta-arm64-v8a-release.apk)
+   - **Huawei phone note**: If installation fails, disconnect from the internet first, then install the APK (reconnect after installation).
+   - **Clash Meta for Android TV / TV Box**: [Click to download](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.27-alpha-universal-release.apk)
+   - **Official latest installer**: [Go to download](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 
-2. **Allow Installation**
-   - Settings → Security → Enable "Unknown Sources"
-   - Or select "Allow this installation" when prompted
+2. **Allow installation**
+   - Settings → Security → Enable "Unknown sources"
+   - Or choose "Allow this installation" when prompted
 
-3. **Complete Installation**
+3. **Complete installation**
    - Tap the APK file to start installation
-   - Follow prompts to complete the installation process
+   - Follow prompts to complete setup
 
 ---
 
@@ -20,63 +22,63 @@
 
 #### 🔥 Step Overview
 
-1. **📱 Launch Application** - Open Clash Meta for Android
-2. **⚙️ Import Configuration** - Add subscription links or configuration files
-3. **🌐 Select Nodes** - Choose servers from the node list
-4. **🚀 Enable Proxy** - Start the proxy service
-5. **✅ Verify Connection** - Confirm proxy functionality is working
+1. **📱 Launch app** - Open Clash Meta for Android
+2. **⚙️ Import config** - Add subscription URL or config file
+3. **🌐 Select node** - Choose a server from the node list
+4. **🚀 Enable proxy** - Start proxy service
+5. **✅ Verify connection** - Confirm proxy works normally
 
-### 🎯 Detailed Operation
+### 🎯 Detailed Operations
 
-#### 🌟 Step 1: Application Launch
+#### 🌟 Step 1: Launch the App
 
-Open the installed Clash Meta and enter the main interface:
+Open installed Clash Meta and enter the main screen:
 
-![Application Launch Interface](clash-meta-for-Android-01.png)
+![App Launch Screen](clash-meta-for-Android-01.png)
 
-> 💡 First launch will request network permissions, please tap "Allow"
+> 💡 On first launch, network permission is required. Tap "Allow".
 
 #### ⚙️ Step 2: Configuration Management
 
-Tap the "Configuration" tab to enter the configuration management page:
+Tap the "Config" tab to enter configuration management:
 
-![Configuration Management Page](clash-meta-for-Android-02.jpg)
+![Configuration Management](clash-meta-for-Android-02.jpg)
 
 #### 📥 Step 3: Import Configuration
 
-Tap the "+" button in the top right corner and select import method:
+Tap "+" in the top-right and choose import method:
 
-![Import Configuration Options](clash-meta-for-Android-03.jpg)
+![Import Options](clash-meta-for-Android-03.jpg)
 
-#### 📝 Step 4: Configuration Information
+#### 📝 Step 4: Enter Configuration Info
 
-Enter configuration information (subscription link or configuration file):
+Enter your config information (subscription URL or config file):
 
-![Configuration Information Entry](clash-meta-for-Android-04.jpg)
+![Configuration Input](clash-meta-for-Android-04.jpg)
 
 #### ⏳ Step 5: Wait for Loading
 
-After importing configuration, wait for node information to load completely:
+After importing, wait for nodes to finish loading:
 
-![Configuration Loading Process](clash-meta-for-Android-05.jpg)
+![Loading Process](clash-meta-for-Android-05.jpg)
 
-#### 🌐 Step 6: Select Nodes
+#### 🌐 Step 6: Select Node
 
-Choose appropriate servers from the node list:
+Choose a suitable server from the node list:
 
-![Node Selection Interface](clash-meta-for-Android-06.jpg)
+![Node Selection](clash-meta-for-Android-06.jpg)
 
 #### ✅ Step 7: Confirm Configuration
 
-Review configuration information and save after confirming it's correct:
+Check config details and save after confirmation:
 
-![Configuration Confirmation Screen](clash-meta-for-Android-07.jpg)
+![Config Confirmation](clash-meta-for-Android-07.jpg)
 
 #### 🚀 Step 8: Start Service
 
-Return to the main interface and enable the proxy service:
+Return to home and enable proxy service:
 
-![Connection Status Display](clash-meta-for-Android-08.jpg)
+![Connection Status](clash-meta-for-Android-08.jpg)
 
 ---
 
@@ -84,52 +86,70 @@ Return to the main interface and enable the proxy service:
 
 ### 📊 Rule Management
 
+- **Domain rules**: Smart routing by domain
+- **IP rules**: Precise routing by IP address
+- **GeoIP rules**: Auto routing by region
+- **Custom rules**: User-defined traffic rules
+
 ### 🔄 Policy Group Configuration
+
+- **Auto-select**: Choose best node by latency
+- **Load balancing**: Distribute traffic across nodes
+- **Failover**: Auto switch when node fails
+- **Manual select**: Choose node manually
 
 ### 📈 Monitoring & Statistics
 
-### 🛡️ Security Reminders
-
-- **Configuration Sources**: Only use trusted configuration providers
-- **Permission Management**: Grant necessary permissions reasonably
-- **Regular Updates**: Update to the latest version promptly
-- **Backup Configurations**: Regularly backup important configuration files
-
-### 🔧 Compatibility
-
-- **System Version**: Ensure Android version meets requirements
-- **Hardware Architecture**: Download the appropriate architecture package
-- **Network Environment**: Some networks may restrict proxy functionality
+- **Real-time traffic**: Current upload/download speed
+- **Connection details**: Active connection list
+- **Logs**: Detailed runtime logs
+- **Rule matching**: Rule hit visibility
 
 ---
 
-## ❓ Frequently Asked Questions
+## ⚠️ Notes
+
+### 🛡️ Security Reminders
+
+- **Config source**: Use trusted providers only
+- **Permission control**: Grant app permissions reasonably
+- **Regular updates**: Keep app up to date
+- **Backup config**: Back up important profiles regularly
+
+### 🔧 Compatibility
+
+- **Android version**: Ensure your version is supported
+- **CPU architecture**: Download the correct package
+- **Network environment**: Some networks may restrict proxy usage
+
+---
+
+## ❓ FAQ
 
 ### 🔧 Technical Support
 
-**Q: Unable to import configuration?**
+**Q: Cannot import configuration?**
 
 A: Please check:
 
-- ✅ Subscription link is correct
-- ✅ Network connection is normal
-- ✅ Configuration format is compatible
-- ✅ No firewall blocking access
+- Whether the subscription URL is correct
+- Whether the network connection is normal
+- Whether the config format is compatible
 
-**Q: Connected but can't access internet?**
+**Q: Connected but cannot access internet?**
 
 A: Troubleshooting suggestions:
 
-- 🔄 Check if nodes are available
-- 📱 Confirm VPN permissions are granted
-- 🌐 Try switching to different nodes
-- 🛡️ Verify DNS settings
+- Check whether the node is available
+- Confirm VPN permission is granted
+- Try switching to a different node
 
-**Q: App crashes or freezes?**
+**Q: App crashes or lags?**
 
 A: Solutions:
 
-- 🔄 Restart app or device
-- 🗑️ Clear app cache and data
-- 📊 Check system resource usage
-- 📱 Update to latest version
+- Restart app or device
+- Clear app cache data
+- Check system resource usage
+
+---
