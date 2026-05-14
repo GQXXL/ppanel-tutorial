@@ -65,17 +65,9 @@ en-US:
         path: en-US/ios-ipados/surge.md
         icon: zh-CN/ios-ipados/surge.png
         updated_at: 2025-07-10
-      - title: QuantumultX
-        path: en-US/ios-ipados/quantumultx.md
-        icon: zh-CN/ios-ipados/quantumult.png
-        updated_at: 2025-07-10
       - title: Sing-Box
         path: en-US/ios-ipados/sing-box.md
         icon: zh-CN/ios-ipados/sing-box.png
-        updated_at: 2025-07-10
-      - title: Quantumult
-        path: en-US/ios-ipados/quantumult.md
-        icon: zh-CN/ios-ipados/quantumult.png
         updated_at: 2025-07-10
   - title: Router
     path: en-US/router.md
@@ -145,17 +137,9 @@ zh-CN:
         path: zh-CN/ios-ipados/surge.md
         icon: zh-CN/macos/surge.png
         updated_at: 2025-07-10
-      - title: QuantumultX
-        path: zh-CN/ios-ipados/quantumultx.md
-        icon: zh-CN/ios-ipados/quantumult.png
-        updated_at: 2025-07-10
       - title: Sing-Box
         path: zh-CN/ios-ipados/sing-box.md
         icon: zh-CN/android/sing-box.png
-        updated_at: 2025-07-10
-      - title: Quantumult
-        path: zh-CN/ios-ipados/quantumult.md
-        icon: zh-CN/ios-ipados/quantumult.png
         updated_at: 2025-07-10
   - title: Router
     path: zh-CN/router.md
@@ -183,7 +167,6 @@ zh-CN:
   * [Surge](en-US/ios-ipados/surge.md)
   * [QuantumultX](en-US/ios-ipados/quantumultx.md)
   * [sing-box](en-US/ios-ipados/sing-box.md)
-  * [Quantumult](en-US/ios-ipados/quantumult.md)
 * [Router](en-US/router.md)
 * [README](<README.md>)
 
@@ -208,6 +191,5 @@ zh-CN:
   * [Surge](zh-CN/ios-ipados/surge.md)
   * [QuantumultX](zh-CN/ios-ipados/quantumultx.md)
   * [Sing-Box](zh-CN/ios-ipados/sing-box.md)
-  * [Quantumult](zh-CN/ios-ipados/quantumult.md)
 * [Router](zh-CN/router.md)
 * [README](README.zh-CN.md)
