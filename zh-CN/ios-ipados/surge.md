@@ -309,3 +309,5 @@ A: 试用说明：
 - 🏠 [App Store 页面](https://apps.apple.com/app/surge-5/id1442620678)
 - 📖 [官方手册](https://manual.nssurge.com/)
 - 🎯 [配置示例](https://github.com/ConnersHua/Profiles)
+
+- 🔧 [规则集合](https://github.com/Loyalsoldier/surge-rules)
