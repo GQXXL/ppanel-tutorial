@@ -281,4 +281,4 @@ If you need more powerful features, consider upgrading to:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🎯 Applicable Version: Quantumult 2.2.1
+> 📅 Last Updated: May 14, 2026 | 🎯 Applicable Version: Quantumult 2.2.1

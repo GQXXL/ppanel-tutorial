@@ -375,4 +375,4 @@ A: Check:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🍎 iOS 14.0+ | 📱 iPadOS 14.0+ | 🔄 Version: 3.0.0
+> 📅 Last Updated: May 14, 2026 | 🍎 iOS 14.0+ | 📱 iPadOS 14.0+ | 🔄 Version: 3.0.0

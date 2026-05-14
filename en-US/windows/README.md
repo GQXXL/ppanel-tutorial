@@ -483,5 +483,5 @@ v2rayN.exe --debug --log-level info
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🪟 Windows 7+ | 💻 x64/x86 | 🔄 Version: 4.0.0
+> 📅 Last Updated: May 14, 2026 | 🪟 Windows 7+ | 💻 x64/x86 | 🔄 Version: 4.0.0
 

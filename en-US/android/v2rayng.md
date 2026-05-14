@@ -295,7 +295,7 @@ A: Power optimization:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🚀 Compatible Version: v2rayNG 1.9.33+
+> 📅 Last Updated: May 14, 2026 | 🚀 Compatible Version: v2rayNG 1.9.33+
 
 ![Image 5](v2rayng-05.jpg)
 

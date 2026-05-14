@@ -377,4 +377,4 @@ tcp-connection = true
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🏄 Compatible Version: Surfboard 2.24.5
+> 📅 Last Updated: May 14, 2026 | 🏄 Compatible Version: Surfboard 2.24.5

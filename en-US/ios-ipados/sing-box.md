@@ -291,4 +291,4 @@ A: Performance optimization:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 📦 Applicable Version: sing-box for iOS 1.8.0
+> 📅 Last Updated: May 14, 2026 | 📦 Applicable Version: sing-box for iOS 1.8.0

@@ -188,4 +188,4 @@ A: Notes:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🚀 Applicable Version: Shadowrocket 2.2.38
+> 📅 Last Updated: May 14, 2026 | 🚀 Applicable Version: Shadowrocket 2.2.38

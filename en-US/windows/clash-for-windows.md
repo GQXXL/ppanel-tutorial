@@ -235,6 +235,6 @@ The Clash ecosystem continues to evolve, recommend following:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | ⚡ Applicable Version: Clash for Windows 0.20.39 (Discontinued)
+> 📅 Last Updated: May 14, 2026 | ⚡ Applicable Version: Clash for Windows 0.20.39 (Discontinued)
 >
 > **Special Notice**: This document is for historical reference only. Strongly recommend using other actively maintained alternatives.

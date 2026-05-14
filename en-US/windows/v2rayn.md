@@ -253,4 +253,4 @@ A: Backup method:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | ⚡ Applicable Version: v2rayN 6.60
+> 📅 Last Updated: May 14, 2026 | ⚡ Applicable Version: v2rayN 6.60

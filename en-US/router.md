@@ -166,4 +166,4 @@ Router-level proxy configuration provides the most comprehensive solution, prote
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 🔄 Keep configurations updated for optimal performance
+> 📅 Last Updated: May 14, 2026 | 🔄 Keep configurations updated for optimal performance
