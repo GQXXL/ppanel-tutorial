@@ -44,7 +44,7 @@ en-US:
         updated_at: 2025-07-10
       - title: v2rayNG
         path: en-US/android/v2rayng.md
-        icon: zh-CN/android/v2rayng.png
+        icon: zh-CN/android/v2rayng-logo.webp
         updated_at: 2025-07-10
       - title: Surfboard
         path: en-US/android/surfboard.md
@@ -124,7 +124,7 @@ zh-CN:
         updated_at: 2025-07-10
       - title: v2rayNG
         path: en-US/android/v2rayng.md
-        icon: zh-CN/android/v2rayng.png
+        icon: zh-CN/android/v2rayng-logo.webp
         updated_at: 2025-07-10
       - title: Surfboard
         path: zh-CN/android/surfboard.md
