@@ -4,6 +4,7 @@
    - **Clash Meta 安卓手机**：[点击下载](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.17/cmfa-2.11.17-meta-arm64-v8a-release.apk)
    - **华为手机说明**：如遇安装失败，请先断网后再安装 APK（安装完成后再联网）。
    - **Clash Meta 安卓电视/安卓电视盒子**：[点击下载](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.27-alpha-universal-release.apk)
+   - **官方最新安装包**：[前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 
 2. **允许安装**
    - 设置 → 安全 → 开启"未知来源"
