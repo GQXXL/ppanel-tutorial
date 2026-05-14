@@ -40,7 +40,7 @@ en-US:
     subItems:
       - title: Clash Meta for Android
         path: en-US/android/clash-meta-for-android.md
-        icon: zh-CN/android/clash.png
+        icon: zh-CN/android/clash-meta-logo.jpg
         updated_at: 2025-07-10
       - title: v2rayNG
         path: en-US/android/v2rayng.md
@@ -120,7 +120,7 @@ zh-CN:
     subItems:
       - title: Clash Meta for Android
         path: zh-CN/android/clash-meta-for-android.md
-        icon: zh-CN/windows/clash.png
+        icon: zh-CN/android/clash-meta-logo.jpg
         updated_at: 2025-07-10
       - title: v2rayNG
         path: en-US/android/v2rayng.md
