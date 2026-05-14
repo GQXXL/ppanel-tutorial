@@ -150,7 +150,7 @@ zh-CN:
         path: zh-CN/ios-ipados/sing-box.md
         icon: zh-CN/android/sing-box.png
         updated_at: 2025-07-10
-  - title: Router
+  - title: 路由器
     path: zh-CN/router.md
     icon: zh-CN/router-logo.png
   
@@ -201,5 +201,5 @@ zh-CN:
   * [Surge](zh-CN/ios-ipados/surge.md)
   * [QuantumultX](zh-CN/ios-ipados/quantumultx.md)
   * [Sing-Box](zh-CN/ios-ipados/sing-box.md)
-* [Router](zh-CN/router.md)
+* [路由器](zh-CN/router.md)
 * [README](README.zh-CN.md)
