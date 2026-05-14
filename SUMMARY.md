@@ -6,7 +6,7 @@ en-US:
     subItems:
       - title: Clash Verge
         path: en-US/windows/clash-verge.md
-        icon: zh-CN/windows/clash.png
+        icon: zh-CN/windows/clash-verge-logo.webp
         updated_at: 2025-07-10
       - title: v2rayN for Windows
         path: en-US/windows/v2rayn.md
@@ -25,7 +25,7 @@ en-US:
     subItems:
       - title: Clash Verge
         path: en-US/macos/clash-verge.md
-        icon: zh-CN/macos/clash.png
+        icon: zh-CN/windows/clash-verge-logo.webp
         updated_at: 2025-07-10
       - title: Surge Pro
         path: en-US/macos/surge-pro.md
@@ -86,7 +86,7 @@ zh-CN:
     subItems:
       - title: Clash Verge
         path: zh-CN/windows/clash-verge.md
-        icon: zh-CN/windows/clash.png
+        icon: zh-CN/windows/clash-verge-logo.webp
         updated_at: 2025-07-10
       - title: v2rayN for Windows
         path: zh-CN/windows/v2rayn.md
@@ -105,7 +105,7 @@ zh-CN:
     subItems:
       - title: Clash Verge
         path: zh-CN/macos/clash-verge.md
-        icon: zh-CN/windows/clash.png
+        icon: zh-CN/windows/clash-verge-logo.webp
         updated_at: 2025-07-10
       - title: Surge Pro
         path: zh-CN/macos/surge-pro.md
