@@ -200,15 +200,3 @@ A: 优化建议：
 
 - **开机启动**：支持系统启动时自动运行
 - **系统托盘**：最小化到系统托盘运行
-- **快捷键**：支持全局快捷键操作
-
-## 📞 获取帮助
-
-- 🌐 **项目主页**：[GitHub 仓库](https://github.com/netchx/netch)
-- 📋 **问题反馈**：[Issues 页面](https://github.com/netchx/netch/issues)
-- 📚 **使用文档**：[Wiki 文档](https://github.com/netchx/netch/wiki)
-- 💬 **社区交流**：QQ 群组和 Telegram 频道
-
----
-
-> 📅 最后更新：2025年7月10日 | 🎮 适用版本：Netch 1.9.7
