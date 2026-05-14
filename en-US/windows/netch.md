@@ -200,15 +200,3 @@ A: Optimization suggestions:
 
 - **Startup on Boot**: Support automatic startup when system starts
 - **System Tray**: Minimize to system tray for operation
-- **Hotkeys**: Support global hotkey operations
-
-## 📞 Getting Help
-
-- 🌐 **Project Homepage**: [GitHub Repository](https://github.com/netchx/netch)
-- 📋 **Issue Feedback**: [Issues Page](https://github.com/netchx/netch/issues)
-- 📚 **Usage Documentation**: [Wiki Documentation](https://github.com/netchx/netch/wiki)
-- 💬 **Community Communication**: QQ Groups and Telegram Channels
-
----
-
-> 📅 Last Updated: July 10, 2025 | 🎮 Applicable Version: Netch 1.9.7

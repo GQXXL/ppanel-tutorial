@@ -10,7 +10,6 @@
 - Software Version: Clash Verge for macOS
 - Compatible Devices: MacBook / iMac / Mac Pro
 
-## Download
 
 ## 📥 Download Links
 
@@ -19,11 +18,8 @@
 - **Official latest releases**: [Go to download](https://github.com/clash-verge-rev/clash-verge-rev/releases/)
 
 
-[Download Address 1](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
 
-[Download Address 2](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
 
-[Download Address 3](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
 
 
 
