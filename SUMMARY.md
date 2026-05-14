@@ -71,6 +71,7 @@ en-US:
         updated_at: 2025-07-10
   - title: Router
     path: en-US/router.md
+    icon: zh-CN/router-logo.png
   
 zh-CN:
   - title: Windows
@@ -143,6 +144,7 @@ zh-CN:
         updated_at: 2025-07-10
   - title: Router
     path: zh-CN/router.md
+    icon: zh-CN/router-logo.png
   
 ---
 # Table of contents
