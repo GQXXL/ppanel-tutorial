@@ -12,6 +12,13 @@
 
 ## Download
 
+## 📥 Download Links
+
+- **Clash Verge Apple Silicon (M series)**: [Download](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_aarch64.dmg)
+- **Clash Verge Intel**: [Download](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64.dmg)
+- **Official latest releases**: [Go to download](https://github.com/clash-verge-rev/clash-verge-rev/releases/)
+
+
 [Download Address 1](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
 
 [Download Address 2](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
