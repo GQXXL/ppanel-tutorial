@@ -1,8 +1,8 @@
 ## 📥 下载链接
 
-- **Clash Verge M芯片**：<https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_aarch64.dmg>
-- **Clash Verge Intel芯片**：<https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64.dmg>
-- **官方最新安装包**：<https://github.com/clash-verge-rev/clash-verge-rev/releases/>
+- **Clash Verge M芯片**：[点击下载](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_aarch64.dmg)
+- **Clash Verge Intel芯片**：[点击下载](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64.dmg)
+- **官方最新安装包**：[点击下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/)
 
 ## 🚀 快速配置教程
 

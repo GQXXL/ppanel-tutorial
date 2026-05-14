@@ -1,8 +1,8 @@
 ## 📥 Download Links
 
-- **Clash Verge Apple Silicon (M series)**: <https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_aarch64.dmg>
-- **Clash Verge Intel**: <https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64.dmg>
-- **Official latest releases**: <https://github.com/clash-verge-rev/clash-verge-rev/releases/>
+- **Clash Verge Apple Silicon (M series)**: [Download](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_aarch64.dmg)
+- **Clash Verge Intel**: [Download](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64.dmg)
+- **Official latest releases**: [Download](https://github.com/clash-verge-rev/clash-verge-rev/releases/)
 
 ## 🚀 Quick Configuration Tutorial
 
