@@ -1,58 +1,9 @@
-# ⚔️ Clash Meta for Android - 强大的开源代理工具
-
-> 🌟 [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) 是基于 Clash Meta 核心开发的 Android 代理客户端，提供了强大的规则引擎和丰富的功能特性。
-
-## ✨ 产品特色
-
-### 🎯 核心优势
-
-- 🆓 **完全免费**：开源项目，永久免费使用
-- 🚀 **性能卓越**：基于 Clash Meta 内核，性能优异
-- 🎨 **界面现代**：Material Design 设计规范
-- 🔧 **功能丰富**：支持多种高级功能和配置
-- 🛡️ **安全可靠**：开源透明，社区维护
-
-### 🔗 协议支持
-
-| 协议 | 支持状态 | 特性说明 |
-|------|----------|----------|
-| 🔒 Shadowsocks (SS) | ✅ | 经典协议，稳定可靠 |
-| 🔓 ShadowsocksR (SSR) | ✅ | 增强功能，混淆支持 |
-| 🧦 SOCKS5 | ✅ | 通用代理协议 |
-| 🐚 Snell | ✅ | 高性能协议 |
-| 🌟 V2Ray (VMess/VLESS) | ✅ | 现代化协议套件 |
-| 🛡️ Trojan | ✅ | TLS 加密伪装 |
-| 🚀 Hysteria | ✅ | 基于 QUIC 的高速协议 |
-| 🔐 WireGuard | ✅ | 现代 VPN 协议 |
-
-### 📱 系统要求
-
-- **最低版本**：Android 7.0 (API 24) 及以上
-- **推荐版本**：Android 9.0 及以上
-- **适用设备**：安卓手机 / 平板电脑
-- **架构支持**：ARM64、ARM、x86_64
-- **存储需求**：约 100MB 可用空间
-
----
-
-## 📥 下载安装
-
-### 🔗 官方发布
-
-> ⚠️ **下载提醒**：请从官方 GitHub Release 页面下载最新版本
-
-| 下载源 | 版本 | 说明 |
-|--------|------|------|
-| 🏠 GitHub Release | 2.11.6-alpha | [官方发布](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk) |
-| 🚀 镜像加速1 | 2.11.6-alpha | [加速下载](https://git.886.be/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk) |
-| 🚀 镜像加速2 | 2.11.6-alpha | [备用链接](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk) |
-| 📦 网盘下载 | 2.11.6-alpha | [蓝奏云](https://tagcloud.lanzouw.com/i02u02b85x8d) |
-
 ### 🛠️ 安装步骤
 
 1. **下载应用**
-   - 选择上述任一下载链接
-   - 下载 `cmfa-2.11.6-alpha-universal-release.apk`
+   - **Clash Meta 安卓手机**：[点击下载](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.17/cmfa-2.11.17-meta-arm64-v8a-release.apk)
+   - **华为手机说明**：如遇安装失败，请先断网后再安装 APK（安装完成后再联网）。
+   - **Clash Meta 安卓电视/安卓电视盒子**：[点击下载](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.27-alpha-universal-release.apk)
 
 2. **允许安装**
    - 设置 → 安全 → 开启"未知来源"
@@ -201,22 +152,3 @@ A: 解决方案：
 - 检查系统资源占用
 
 ---
-
-## 🔗 相关资源
-
-### 📚 官方链接
-
-- 🏠 [项目主页](https://github.com/MetaCubeX/ClashMetaForAndroid)
-- 📖 [使用文档](https://github.com/MetaCubeX/ClashMetaForAndroid/wiki)
-- 🐛 [问题反馈](https://github.com/MetaCubeX/ClashMetaForAndroid/issues)
-- 💬 [社区讨论](https://t.me/ClashMeta)
-
-### 🛠️ 技术资源
-
-- 🔧 [Clash Meta 内核](https://github.com/MetaCubeX/Clash.Meta)
-- 📋 [配置示例](https://github.com/MetaCubeX/Clash.Meta/wiki)
-- 🎯 [规则集合](https://github.com/Loyalsoldier/clash-rules)
-
----
-
-> 📅 最后更新：2025年7月10日 | ⚔️ 适用版本：Clash Meta for Android 2.11.6-alpha
